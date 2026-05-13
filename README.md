@@ -123,7 +123,7 @@ accuracy                             0.78
 
 | 文件 | 说明 |
 |------|------|
-| `CustomerChurn_code.ipynb` | 完整分析流程：EDA → 特征工程 → 建模 → 评估 → 提交 |
+| `CustomerChurn_code.ipynb` | 完整分析流程 |
 | `requirements.txt` | Python 依赖包版本 |
 | `.gitignore` | 排除数据文件和临时文件 |
 
