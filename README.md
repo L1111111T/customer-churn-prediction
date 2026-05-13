@@ -1,7 +1,7 @@
 # Customer Churn Prediction
 
 > 电信用户流失预测 · Kaggle 竞赛项目  
-> **比赛排名：483 / 525**  
+> **比赛排名：143 / 525 **
 > [Kaggle 比赛页面](https://www.kaggle.com/competitions/customer-churn-prediction-udel)
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
