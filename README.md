@@ -130,8 +130,6 @@ accuracy                             0.78
 ---
 
 ## 技术栈
-
-`Python 3.12` · `pandas` · `numpy` · `scikit-learn` · `Matplotlib`
-
-**核心方法：** Pipeline · ColumnTransformer · GridSearchCV · Cross-Validation  
-**算法：** Logistic Regression · Decision Tree · Random Forest (Bagging Ensemble)
+`Python 3.12` · `pandas` · `NumPy` · `scikit-learn` · `Matplotlib`
+* **核心方法：** Pipeline · ColumnTransformer · GridSearchCV · Cross-Validation  
+* **算法：** Logistic Regression · Decision Tree · Random Forest (Bagging Ensemble)
