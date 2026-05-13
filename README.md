@@ -2,7 +2,7 @@
 
 > 电信用户流失预测 · [Kaggle 比赛页面](https://www.kaggle.com/competitions/udel-customer-churn-prediction)
 >
-> 比赛排名：143 / 525 
+> 比赛排名：143 / 525  (前27%)
 ---
 
 ## 项目背景
