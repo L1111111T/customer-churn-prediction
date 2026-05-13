@@ -1,8 +1,7 @@
 # Customer Churn Prediction
 
 > 电信用户流失预测 · [Kaggle 比赛页面](https://www.kaggle.com/competitions/udel-customer-churn-prediction)
-> 公榜得分：0.79772
-> 比赛排名：143 / 525  (前27%)
+> ** 公榜得分：0.79772；比赛排名：143 / 525  (前27%) **
 ---
 
 ## 项目背景
