@@ -1,7 +1,8 @@
 # Customer Churn Prediction
 
 > 电信用户流失预测 · [Kaggle 比赛页面](https://www.kaggle.com/competitions/udel-customer-churn-prediction)
-> ** 公榜得分：0.79772；比赛排名：143 / 525  (前27%) **
+>
+> 公榜得分：0.79772；比赛排名：143 / 525  (前27%) 
 ---
 
 ## 项目背景
@@ -74,22 +75,22 @@ rf_param_grid = {
 | 决策树（调参后）| **0.7799** | 0.48 | — |
 | 随机森林（调参后）| — | — | — |
 
-> **最终选用决策树模型**提交 Kaggle 公榜  
+> **最终选用决策树模型**
 > **得分：0.79772 · 排名：143 / 525（前 27%）**
 
 **决策树最终评估（测试集）：**
 ```
               precision    recall  f1-score
 No  （未流失）   0.79      0.95      0.86
-Yes （流失）    0.73      0.36      0.48
-accuracy                           0.78
+Yes （流失）     0.73      0.36      0.48
+accuracy                             0.78
 ```
 
 混淆矩阵：
 ```
-预测 No  预测 Yes
-实际 No  [ 765    43 ]
-实际 Yes [ 205   114 ]
+          预测 No   预测 Yes
+实际 No  [  765        43  ]
+实际 Yes [  205       114  ]
 ```
 
 ---
@@ -118,16 +119,6 @@ accuracy                           0.78
 本项目数据来自 Kaggle 竞赛官网：
 1. 访问 [比赛页面](https://www.kaggle.com/competitions/udel-customer-churn-prediction)
 2. 在 **Data** 中下载并解压 `udel-churn-train.csv` 和 `udel-churn-test.csv` 放在与 Notebook 相同的目录下
-
----
-
-## 环境配置
-
-```bash
-pip install -r requirements.txt
-```
-
-在 Jupyter Notebook 中打开 `CustomerChurn_code.ipynb` 并按顺序运行所有 cell。
 
 ---
 
